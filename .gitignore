@@ -10,6 +10,7 @@
 .idea/
 *.suo
 *.user
+*.sln
 *.userosscache
 *.sln.docstates
 *.VC.db
@@ -240,3 +241,4 @@ DerivedDataCache/**
 .directory
 .Trash-*
 .nfs*
+.agent

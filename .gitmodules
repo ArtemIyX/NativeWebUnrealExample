@@ -1,0 +1,9 @@
+[submodule "Plugins/AffineUnreal"]
+	path = Plugins/AffineUnreal
+	url = https://github.com/ArtemIyX/AffineUnreal.git
+[submodule "Plugins/QuickJSUnreal"]
+	path = Plugins/QuickJSUnreal
+	url = https://github.com/ArtemIyX/QuickJSUnreal.git
+[submodule "Plugins/NativeWeb"]
+	path = Plugins/NativeWeb
+	url = https://github.com/ArtemIyX/NativeWebUnreal.git
